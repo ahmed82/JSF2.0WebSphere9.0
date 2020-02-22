@@ -75,10 +75,6 @@ This may disable custom JSF extensions, such as factories defined in the project
 		<servlet-name>Faces Servlet</servlet-name>
 		<url-pattern>*.xhtml</url-pattern>
 	</servlet-mapping>
-	<servlet-mapping>
-		<servlet-name>Faces Servlet</servlet-name>
-		<url-pattern>*.jsf</url-pattern>
-	</servlet-mapping>
 	
 	<!-- Welcome page -->
 	<welcome-file-list>
