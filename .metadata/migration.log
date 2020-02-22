@@ -1,0 +1,181 @@
+
+INFO     Validating project: RPWDemoCodeWeb
+INFO       Running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Finished running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+OK           The project was successfully migrated with Tern support.
+INFO       Finished running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO       Running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         The project has no EJB model associated with it.  EJB mapping backend validation will not be performed.
+INFO       Finished running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO         The project has no WebSphere runtime associated with it.  WebSphere facet validation will not be performed.
+INFO       Finished running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO         The project has no WebSphere runtime associated with it.  WebSphere runtime validation will not be performed.
+INFO       Finished running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Finished validating project: RPWDemoCodeWeb
+
+INFO     Validating project: ResetPasswordWeb
+INFO       Running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Finished running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO         The project does not have JavaScript capabilities.
+INFO       Finished running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO       Running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         The project has no EJB model associated with it.  EJB mapping backend validation will not be performed.
+INFO       Finished running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO         The project has no WebSphere runtime associated with it.  WebSphere facet validation will not be performed.
+INFO       Finished running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO         The project has no WebSphere runtime associated with it.  WebSphere runtime validation will not be performed.
+INFO       Finished running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Finished validating project: ResetPasswordWeb
+
+Migration complete
+
+INFO     Validating project: CostAndDealsDSD
+INFO       Running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Finished running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO         The project does not have JavaScript capabilities.
+INFO       Finished running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO       Running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         The project has no EJB model associated with it.  EJB mapping backend validation will not be performed.
+INFO       Finished running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+OK           The WebSphere facet "WebSphere Application (Extended) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere facet "WebSphere Application (Co-existence) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere Co-Existence facet pre-requisite exists for the WebSphere Extended facet.
+INFO       Finished running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+OK           The WebSphere runtime is valid at the configured path:  D:/Development/IBM/WebSphere/AppServer
+OK           The WebSphere runtime is at a supported level:  9.0
+INFO       Finished running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Finished validating project: CostAndDealsDSD
+
+INFO     Validating project: CostAndDealsDSDWeb
+INFO       Running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Finished running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO         The project does not have JavaScript capabilities.
+INFO       Finished running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO       Running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         The project has no EJB model associated with it.  EJB mapping backend validation will not be performed.
+INFO       Finished running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+OK           The WebSphere facet "WebSphere Web (Extended) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere facet "WebSphere Web (Co-existence) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere Co-Existence facet pre-requisite exists for the WebSphere Extended facet.
+INFO       Finished running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+OK           The WebSphere runtime is valid at the configured path:  D:/Development/IBM/WebSphere/AppServer
+OK           The WebSphere runtime is at a supported level:  9.0
+INFO       Finished running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Finished validating project: CostAndDealsDSDWeb
+
+Migration complete
+
+INFO     Validating project: CostAndDealsDSD
+INFO       Running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Finished running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO         The project does not have JavaScript capabilities.
+INFO       Finished running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO       Running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         The project has no EJB model associated with it.  EJB mapping backend validation will not be performed.
+INFO       Finished running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+OK           The WebSphere facet "WebSphere Application (Extended) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere facet "WebSphere Application (Co-existence) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere Co-Existence facet pre-requisite exists for the WebSphere Extended facet.
+INFO       Finished running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+OK           The WebSphere runtime is valid at the configured path:  D:/Development/IBM/WebSphere/AppServer
+OK           The WebSphere runtime is at a supported level:  9.0
+INFO       Finished running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Finished validating project: CostAndDealsDSD
+
+INFO     Validating project: CostAndDealsDSDWeb
+INFO       Running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Finished running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO         The project does not have JavaScript capabilities.
+INFO       Finished running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO       Running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         The project has no EJB model associated with it.  EJB mapping backend validation will not be performed.
+INFO       Finished running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+OK           The WebSphere facet "WebSphere Web (Co-existence) 8.5" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere facet "WebSphere Web (Extended) 8.5" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere Co-Existence facet pre-requisite exists for the WebSphere Extended facet.
+INFO       Finished running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+OK           The WebSphere runtime is valid at the configured path:  D:/Development/IBM/WebSphere/AppServer
+OK           The WebSphere runtime is at a supported level:  9.0
+INFO       Finished running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Finished validating project: CostAndDealsDSDWeb
+
+Migration complete
+
+INFO     Validating project: HannafordFramework
+INFO       Running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Finished running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO         The project does not have JavaScript capabilities.
+INFO       Finished running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO       Running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         The project has no EJB model associated with it.  EJB mapping backend validation will not be performed.
+INFO       Finished running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Finished running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+OK           The WebSphere runtime is valid at the configured path:  D:/Development/IBM/WebSphere/AppServer
+OK           The WebSphere runtime is at a supported level:  9.0
+INFO       Finished running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Finished validating project: HannafordFramework
+
+Migration complete
+
+INFO     Validating project: CostAndDealsWarehouse
+INFO       Running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Finished running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO         The project does not have JavaScript capabilities.
+INFO       Finished running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO       Running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         The project has no EJB model associated with it.  EJB mapping backend validation will not be performed.
+INFO       Finished running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+OK           The WebSphere facet "WebSphere Application (Co-existence) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere facet "WebSphere Application (Extended) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere Co-Existence facet pre-requisite exists for the WebSphere Extended facet.
+INFO       Finished running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+OK           The WebSphere runtime is valid at the configured path:  D:/Development/IBM/WebSphere/AppServer
+OK           The WebSphere runtime is at a supported level:  9.0
+INFO       Finished running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Finished validating project: CostAndDealsWarehouse
+
+INFO     Validating project: CostAndDealsWarehouseWeb
+INFO       Running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Finished running validator: Legacy Workspace Detector (id= LegacyWorkspaceDetector)
+INFO       Running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO         The project does not have JavaScript capabilities.
+INFO       Finished running validator: Tern Support Validator (id= TernSupportMigrationValidator)
+INFO       Running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO         The project has no EJB model associated with it.  EJB mapping backend validation will not be performed.
+INFO       Finished running validator: EJB Mapping Validator (id= EjbMappingValidator)
+INFO       Running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+OK           The WebSphere facet "WebSphere Web (Co-existence) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere facet "WebSphere Web (Extended) 8.0" is compatible with the WebSphere runtime "WebSphere Application Server traditional V9.0".
+OK           The WebSphere Co-Existence facet pre-requisite exists for the WebSphere Extended facet.
+INFO       Finished running validator: WebSphere Facet Validator (id= WebSphereFacetValidator)
+INFO       Running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+OK           The WebSphere runtime is valid at the configured path:  D:/Development/IBM/WebSphere/AppServer
+OK           The WebSphere runtime is at a supported level:  9.0
+INFO       Finished running validator: WebSphere Runtime Validator (id= WebSphereRuntimeValidator)
+INFO     Finished validating project: CostAndDealsWarehouseWeb
+
+Migration complete
